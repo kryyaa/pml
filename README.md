@@ -15,5 +15,5 @@
 thanks to <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="15">
 
 </kbd>
-<br><br>[how to use](https://)
+<br><br>[how to use](https://github.com/kryyaa/pml/blob/main/HOWTO.md)
 </div>
