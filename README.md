@@ -17,5 +17,7 @@ thanks to <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-bad
 </kbd>
 <br><br> 
 
-[how to use](https://github.com/kryyaa/pml/blob/main/HOWTO.md)
+[how to use](https://github.com/kryyaa/pml/blob/main/en-howto.md)
+<br>
+[как использовать](https://github.com/kryyaa/pml/blob/main/ru-howto.md)
 </div>
